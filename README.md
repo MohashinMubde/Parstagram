@@ -33,12 +33,12 @@ Sign Up:
 
 
 
-Sign In:
 <img src='https://media.giphy.com/media/MyKc10xD4GnNWuNjjL/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Sign In:
 
 
 
 
-Post and View Post:
 <img src='https://media.giphy.com/media/GGmtX5wrCEHxLeBf8h/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Post and View Post:
 
