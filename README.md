@@ -26,11 +26,17 @@ Here's a walkthrough of implemented user stories:
 Sign Up:
 
 
+
+
 <img src='https://media.giphy.com/media/xRv5MQDo6ZlWWvnUoX/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 
 Sign In:
 <img src='https://media.giphy.com/media/MyKc10xD4GnNWuNjjL/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 
 Post and View Post:
